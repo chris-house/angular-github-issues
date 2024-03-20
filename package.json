@@ -4,7 +4,7 @@
   "homepage": "https://chris-house.firebaseapp.com/",
   "dependencies": {
     "@angular/animations": "10.2.5",
-    "@angular/cdk": "10.2.7",
+    "@angular/cdk": "17.3.1",
     "@angular/common": "10.2.5",
     "@angular/compiler": "10.2.5",
     "@angular/compiler-cli": "10.2.5",
@@ -12,7 +12,7 @@
     "@angular/fire": "5.4.2",
     "@angular/forms": "10.2.5",
     "@angular/http": "7.2.16",
-    "@angular/material": "10.2.7",
+    "@angular/material": "17.3.1",
     "@angular/platform-browser": "10.2.5",
     "@angular/platform-browser-dynamic": "10.2.5",
     "@angular/platform-server": "10.2.5",
